@@ -1,0 +1,14 @@
+1,Mon Impelido, Taytay 
+2,Lizette Terrado, Makati City
+3,Julliene Bernal, Catanduanes 
+4,Gem Gonzales, Quezon City
+5,Farhaan Heaton, Quezon City
+6,Ryan Byrne, Nueva Ecija City
+7,Samirah Savage, San Jose Del Monte
+8,Samera Noble, Manila City
+9,Libby Kouma, Marilao City
+10,Zacharia Armitage, Makati City 
+11,Elysha Blackwell, Davao City
+12,Ellenor Thompson, Cabanatuan City
+13,Hadi Graham,Batangas City
+14,Umair Maldonado,Alabang City

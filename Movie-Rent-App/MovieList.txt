@@ -1,0 +1,25 @@
+101,Greyhound,Action,Sony Pictures,10
+189,Inception,Action,Warner Bros,10
+123,Resistance,Action,Bliss Media,10
+168,Taken,Action,Europa Corp,10
+172,Top Gun:Maverick,Action,Skydance Media,10
+206,Dictator,Comedy,Four by Two,10
+276,Good Boys,Comedy,Good Universe,10
+254,Mean Girls,Comedy,Lorne Michaels,10
+234,Sex Tape,Comedy,Columbia Pictures,10
+281,When We First Met,Comedy,Footprint Features,10
+545,Abducted,Horror,E1 Entertainment,10
+509,Dont Speak,Horror,Shein Partnership,10
+523,Insidious,Horror,Haunted Movies,10
+589,IT,Horror,New Line Cinema,10
+512,The Exorcist,Horror,Hoya Productions,10
+823,Me Before You,Romance,New Line Cinema,10
+805,Midnight Sun,Romance,Schiller Film Group,10
+884,The Fault in our Stars,Romance,Fox 2000 Pictures,10
+832,Titanic,Romance,Paramount Pictures,10
+863,Everything Everything,Romance,Metro Goldwyn Mayer,10
+904,Alien,Sci-Fi,20th Century Fox,10
+943,Arrival,Sci-Fi,Film Nation Entertainment,10
+927,Invasion,Sci-Fi,Immagine,10
+986,The Chronicles of Riddick,Sci-Fi,Radar Pictures,10
+934,Tron:Legacy,Sci-Fi,Walt Disney Pictures,10
